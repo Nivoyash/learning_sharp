@@ -1,0 +1,7 @@
+c:\users\devil\documents\visual studio 2010\Projects\Cylindre\Cylindre\obj\x86\Debug\Cylindre.Form1.resources
+c:\users\devil\documents\visual studio 2010\Projects\Cylindre\Cylindre\obj\x86\Debug\Cylindre.Properties.Resources.resources
+c:\users\devil\documents\visual studio 2010\Projects\Cylindre\Cylindre\obj\x86\Debug\Cylindre.csproj.GenerateResource.Cache
+c:\users\devil\documents\visual studio 2010\Projects\Cylindre\Cylindre\bin\Debug\Cylindre.exe
+c:\users\devil\documents\visual studio 2010\Projects\Cylindre\Cylindre\bin\Debug\Cylindre.pdb
+c:\users\devil\documents\visual studio 2010\Projects\Cylindre\Cylindre\obj\x86\Debug\Cylindre.exe
+c:\users\devil\documents\visual studio 2010\Projects\Cylindre\Cylindre\obj\x86\Debug\Cylindre.pdb
